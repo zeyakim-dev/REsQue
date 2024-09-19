@@ -1,0 +1,3 @@
+[submodule "REsQue-backend"]
+	path = REsQue-backend
+	url = git@github.com:zeyakim-dev/REsQue-backend.git
